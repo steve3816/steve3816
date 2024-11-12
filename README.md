@@ -4,7 +4,5 @@ steve3816/steve3816 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Hi I am Steve
 
-**I'm currently learning ReactJS**
 
